@@ -1,0 +1,11 @@
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\bin\Debug\netcoreapp2.1\WebCrawlerCasaNur.deps.json
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\bin\Debug\netcoreapp2.1\WebCrawlerCasaNur.runtimeconfig.json
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\bin\Debug\netcoreapp2.1\WebCrawlerCasaNur.runtimeconfig.dev.json
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\bin\Debug\netcoreapp2.1\WebCrawlerCasaNur.dll
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\bin\Debug\netcoreapp2.1\WebCrawlerCasaNur.pdb
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\obj\Debug\netcoreapp2.1\WebCrawlerCasaNur.csprojAssemblyReference.cache
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\obj\Debug\netcoreapp2.1\WebCrawlerCasaNur.csproj.CoreCompileInputs.cache
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\obj\Debug\netcoreapp2.1\WebCrawlerCasaNur.AssemblyInfoInputs.cache
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\obj\Debug\netcoreapp2.1\WebCrawlerCasaNur.AssemblyInfo.cs
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\obj\Debug\netcoreapp2.1\WebCrawlerCasaNur.dll
+C:\Users\João Pedro\source\repos\WebCrawlerCasaNur\WebCrawlerCasaNur\obj\Debug\netcoreapp2.1\WebCrawlerCasaNur.pdb
